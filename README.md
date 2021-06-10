@@ -10,9 +10,7 @@
 * Graduated in business adiministration 🎓
 
 #### Currently:
-* Learning python 🐍 and data science 📊 (Wish me luck!🍀)
-
----
+* Learning python 🐍 and data science 📊 
 
 #### Reach me in: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-schultz-ferreira)](https://www.linkedin.com/in/gabriel-schultz-ferreira)
