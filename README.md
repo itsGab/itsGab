@@ -6,7 +6,7 @@
 
 
 #### About me:
-* I am brazilian 🇧🇷
+* Brazilian 🇧🇷
 * Graduated in business adiministration 🎓
 
 #### Currently:
