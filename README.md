@@ -1,26 +1,52 @@
-# 👋 Olá! Eu sou o Gabriel
+# Olá! Eu sou o Gabriel
 
-## Sobre mim
-- 🇧🇷 Sou brasileiro 
-- 🎓 Graduado em Administração de Empresas (na FAE Business School - Brasil)
-- 🐍 Programo em Python
-- 💻 Usuario de 🐧 Linux e 🪟 Windows
-- 📊 Atualmente aprendendo Ciência de Dados, Machine Learning e IA (incluindo LLMs)
-- 🌐 Falo inglês avançado e estou começando no japonês
-- 🎮 Gamer ávido, aproveitando desde jogos clássicos até os lançamentos mais recentes
+## 😀 Sobre mim
 
-## Habilidades
-- **Linguagens de Programação:** Python 🐍
+### **Sobre mim resumido**
+
+<details>
+
+- 🇧🇷 Brasileiro
+- 🐍 Python
+- 📈 Ciência de Dados
+- 🤖 Machine Learning (ML, IA, LLM)
+- 💻 Windows e Linux
+- 🌐 Português e Inglês
+
+</details>
+
+### **Versão por Estenso**
+
+Sou brasileiro, natural de Curitiba, e formado em **Administração** pela FAE Business School. Embora minha formação seja na área de negócios, sempre fui apaixonado por tecnologia.
+
+Estou constantemente aprimorando minhas habilidades em **Python**, aplicando-o tanto em **Desenvolvimento Geral** — como na automação de tarefas, criação de scripts e APIs simples — quanto em **Ciência de Dados**, com foco em **Machine Learning**, **Inteligência Artificial** e **Modelos de Linguagem de Grande Escala (LLMs)**. Para o dia a dia, prefiro usar **Windows**, mas, quando preciso trabalhar no terminal, opto pelo **Bash** — consigo me virar bem, embora não seja nenhum hacker.
+
+Além do português, tenho **proficiência em inglês** e recentemente comecei meus estudos em **japonês**, buscando uma experiência cultural e linguística diferente.
+
+Nos meus momentos de lazer, gosto de passear, assistir filmes e jogar videogame — uma paixão antiga que cultivo desde a infância, embora hoje tenha menos tempo para me dedicar a ela.
+
+---
+
+## 📌 Habilidades
+- **Programação:** 🐍 Python
 - **Ferramentas de Dados:** Pandas, NumPy, Matplotlib, SQL
-- **Machine Learning:** Conhecimento básico e grande interesse
-- **Idiomas:** Português (nativo), Inglês (avançado), Japonês (comecei agora)
+- **Machine Learning:** Scikit-Learn (conhecimento básico e em evolução)
+- **Idiomas:** Português, Inglês, Japonês (início dos estudos)
 
-## Projetos
-- [Projeto MADR](https://github.com/itsGab/madr_fast): Um gerenciador de livros e relacionar com seus autores, chamado de MADR, desenvolido usando FastAPI.
+---
+
+## 🗃️ Projetos
+- [**Projeto MADR**](https://github.com/itsGab/madr_fast): Um gerenciador de livros, denominado MADR, desenvolido como uma API com FastAPI, que permite relacionar obras e seus autores.
+- [**Meus Estudos**](https://github.com/itsGab/meus-estudos): Diretório criado para registro, como técnica de aprendizado e para auxiliar aqueles que compartilhem dos mesmo interesses de estudo.
+
+---
 
 ## 🎯 Metas
-- Aperfeiçoar minhas habilidades em ciência de dados e machine learning
-- Contribuir para projetos de código aberto
+- Aperfeiçoar minhas habilidades em **Ciência de Dados** e **Machine Learning**
+- Contribuir para projetos de **código aberto**
 - Fazer networking com outros entusiastas de dados
 
 ---
+
+## 📬 Fale Comigo  
+![Static Badge](https://img.shields.io/badge/GITHUB-%23B0CDE4?style=for-the-badge&logo=github&logoColor=black&link=https%3A%2F%2Fgithub.com%2FitsGab) ![Static Badge Insta](https://img.shields.io/badge/INSTAGRAM-%23B0CDE4?style=for-the-badge&logo=instagram&logoColor=red&link=https%3A%2F%2Fwww.instagram.com%2Figniscreaturae%2F) ![Static Badge](https://img.shields.io/badge/LINKEDIN-%23B0CDE4?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-schultz-ferreira)
