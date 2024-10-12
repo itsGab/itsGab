@@ -49,4 +49,4 @@ Nos meus momentos de lazer, gosto de passear, assistir filmes e jogar videogame 
 ---
 
 ## 📬 Fale Comigo  
-![Static Badge](https://img.shields.io/badge/GITHUB-%23B0CDE4?style=for-the-badge&logo=github&logoColor=black&link=https%3A%2F%2Fgithub.com%2FitsGab) ![Static Badge Insta](https://img.shields.io/badge/INSTAGRAM-%23B0CDE4?style=for-the-badge&logo=instagram&logoColor=red&link=https%3A%2F%2Fwww.instagram.com%2Figniscreaturae%2F) ![Static Badge](https://img.shields.io/badge/LINKEDIN-%23B0CDE4?style=for-the-badge&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-schultz-ferreira)
+[![Static Badge](https://img.shields.io/badge/GITHUB-%23B0CDE4?style=for-the-badge&logo=github&logoColor=black)](https://www.github.com/itsGab) [![Static Badge Insta](https://img.shields.io/badge/INSTAGRAM-%23B0CDE4?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/igniscreaturae/) <!--ARRUMAR O LINK [![Static Badge](https://img.shields.io/badge/LINKEDIN-%23B0CDE4?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com.br/gabriel-schultz-ferreira)-->
