@@ -13,7 +13,8 @@
 - **Constituição** - Resiliente.
 - **Inteligência** - 
 - **Sabedoria** - 
-- **Carisma** - Introvertido, mas conquista aliados  
+- **Carisma** - Introvertido, mas conquista aliados.
+- **Amor** - Quando encontra a namorada linda a vida aumenta. 
 
 
 ## Habilidades & Perícias:
