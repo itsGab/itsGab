@@ -1,58 +1,54 @@
-# Ficha
+# Olá, tudo bem?
 
-## Dados Gerais
+Sou Gabriel. Formado em administração, tentando convencer o Python de que sei programar.
 
-**Classe**: Guerreiro Corporativo (Bacharel em Admnistração - *FAE Bussines School*)</br>
-**Subclasse**: Aprendiz Mago da Tecnologia (Programador - *Cursos e Material Online*) 
+## Idiomas
 
+- Português como lingua nativa
+- Inglês, nível avançado, consigo me comunicar bem e transmitir ideias com clareza.
 
-## **Atributos**
+## Formação
 
-- **Força 14** - Guerreiro urbano da academia
-- **Destreza 12** - Ágil e feitiços nas pontas dos dedos.
-- **Constituição** - Resiliente.
-- **Inteligência** - 
-- **Sabedoria** - 
-- **Carisma** - Introvertido, mas conquista aliados.
-- **Amor** - Quando encontra a namorada linda a vida aumenta. 
+**Formal:**
 
+- Bacharel em Administração - *FAE Business School*
 
-## Habilidades & Perícias:
+**Informal:**
 
-- **Python & SQL**: Magia digital e manipulação de dados.
-Gestão Corporativa: Planilhas, projetos e processos.
-- **Alquimia Celestial**: Café +10 energia.
-- **Teleporte Virtual**: Videogames e raciocínio estratégico.
-- **Cultura**: Absorve conhecimento de livros, filmes e idiomas.
-- **Linguas**: Inglês fluente.
+- Aprendendo programação em **Python**
+- E ciência de dados (data science)
 
+## Interesses pessoais
 
-## Equipamentos Essencias
+- Jogos: Uma paixão que me acompanha desde criança, comecei no Sonic e Golden Axe, mas apaixonei mesmo na era do PlayStation 1 com, o meu jogo favorito da época, Dino Crisis 2. Mantenho o hábito de jogar até hoje como lazer. 
+- Literatura: Não sou um **devorador de livros**, mas gosto de ler e estou buscando melhorar a consistência do hábito.
+- Café: Gosto de tomar o meu café como um ritual diário. Nada como um boa poção de vigor (+10 de energia)!
 
-- **Computador**: Linux ou Windows
-- **Smartphone**: Android
-- **Fones**: Podcast e Musicas
-- **E-reader**: Conhecimento e cultura
-- **Garrafa de Água**: Hidratação
+## Objetivos
 
-## Missão
+**Principal:**
+Meu principal objetivo melhor no geral, sim, é bem clichê, mas espero um dia ser bom o suficiente para deixar minha marca de algum modo bom no mundo.
 
-**Missão Principal**: Aumentar conhecimentos, melhorar como pessoa e deixa sua marca.</br>
+**Outros:**
 
-- **Frase de efeito**: Você tem 2 vidas e a segunda só começa quando descobre que só tem 1
+- Contribuir em algum projeto de código aberto.
+- Fazer networking com pessoas com interesses parecidos (programação, dados, jogos, tecnologia e etc.)
 
-- **Side Quests**:
-    - Aperfeiçoar minhas habilidades em **Ciência de Dados** e **Machine Learning**
-    - Contribuir para projetos de **código aberto**
-    - Fazer networking com outros entusiastas de dados
+## Projetos / Contribuições
 
----
+- Pequenas contribuições no curso do Eduardo Mendez, *FastAPI do ZERO*, com correções de typos. [Link para o curso](https://github.com/dunossauro/fastapi-do-zero)
+- Projeto final como participação no curso, de FastAPI, citado acima. [Link para o projeto final](https://github.com/itsGab/mymadr)
+- *(Place holder para um projeto pessoal.)*
 
-### 🗃️ Alguns Projetos
-- [**Projeto MADR**](https://github.com/itsGab/madr_fast): Um gerenciador de livros, denominado MADR, desenvolido como uma API com FastAPI, que permite relacionar obras e seus autores.
-- [**Meus Estudos**](https://github.com/itsGab/meus-estudos): Diretório criado para registro, como técnica de aprendizado e para auxiliar aqueles que compartilhem dos mesmo interesses de estudo.
+## Bônus de Inspiração
 
----
+> Todos temos duas vidas. A segunda começa quando percebemos que só temos uma.
+>
+> -- Confúcio
 
-### 📬 Fale Comigo  
-[![Static Badge](https://img.shields.io/badge/GITHUB-%23B0CDE4?style=for-the-badge&logo=github&logoColor=black)](https://www.github.com/itsGab) <!--ARRUMAR O LINK [![Static Badge Insta](https://img.shields.io/badge/INSTAGRAM-%23B0CDE4?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/igniscreaturae/) [![Static Badge](https://img.shields.io/badge/LINKEDIN-%23B0CDE4?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com.br/gabriel-schultz-ferreira)-->
+## Minhas redes
+
+Sinta-se a vontade para me falar comigo!
+
+[![Static Badge](https://img.shields.io/badge/GITHUB-%23B0CDE4?style=for-the-badge&logo=github&logoColor=black)](https://www.github.com/itsGab)
+[![Static Badge Insta](https://img.shields.io/badge/INSTAGRAM-%23B0CDE4?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/igniscrit/)
